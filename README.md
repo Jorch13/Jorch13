@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Moya</h1>
-<h3 align="center">A passionate junior anda backend developer from Spain</h3>
+<h3 align="center">A passionate junior frontend and backend developer from Spain</h3>
 
 - 🌱 I’m currently learning **Laravel, Python, C#**
 
