@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel, Python, C#**
 
-- 💬 Ask me about **Js,PHP anda Java**
+- 💬 Ask me about **Js, PHP and Java**
 
 - 📫 How to reach me **jorgemd1308@gmail.com**
 
